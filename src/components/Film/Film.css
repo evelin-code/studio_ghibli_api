@@ -1,0 +1,26 @@
+.name {
+  color: rgb(215, 157, 249);
+  font-size: 30px;
+}
+
+.cont-figure {
+  width: 250px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 18px;
+  box-shadow: 0px 0px 10px 0px rgba(211, 211, 211, 0.5)
+}
+
+.btns {
+  background-color: rgb(215, 157, 249);
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 18px;
+}
+
+.btns:hover {
+  background-color: rgb(199, 130, 238);
+  cursor: pointer;
+}
